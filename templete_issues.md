@@ -1,0 +1,10 @@
+# 要約
+課題資料の内容を要約してください。
+図表を用いる場合は、パワーポイント/ エクセル/ Google Spreadsheet/ Google Presentationなどで作成し、
+* パワーポイント/エクセルなど: ファイルをこの投稿フォームにドラッグアンドドロップする
+* Google Spreadsheet/ Presentation: 共有URLリンクを記入
+
+してください。
+
+# 感想
+自由に感想を記入してください。
